@@ -1,10 +1,9 @@
 # User manual
 
 [[toc]]
+## Shizukuku Shizuku
 
-## Start Shizuku
-
-Shizuku supports startup in the following three ways.
+Shizuku supports startup in the followthreehree ways.
 
 ::: tip If you are using GrapheneOS
 
